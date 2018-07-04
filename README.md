@@ -1,0 +1,2 @@
+# neural-signals
+The project consists in the acquisition and interpretation of neural signals so that, in the future, it will be possible to use these signals to perform commands, excluding the need of physical controls, allowing, this way, the solution of different everyday life issues, such as the locomotion difficulties endured by people with disabilities. The collected signals pass through conditioning circuits and are analyzed by the microcomputer Raspberry Pi, and then sent to a graphical interface, where is possible to identify the different types of waves.
